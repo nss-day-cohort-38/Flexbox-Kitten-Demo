@@ -1,0 +1,31 @@
+/* .nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  border: 1px solid blue;
+}
+
+.container {
+  border: 1px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.kitten {
+  border: 1px solid green;
+  width: 22%;
+  margin: 1%;
+}
+
+.puppy {
+  display: flex;
+  flex-direction: column;
+  width: 18%;
+  margin: 1%;
+}
+
+img {
+  width: 100%;
+} */
